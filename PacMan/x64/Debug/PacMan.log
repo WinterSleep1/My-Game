@@ -1,4 +1,0 @@
-﻿  Sourec.c
-C:\Users\wsw28\OneDrive\바탕 화면\C 예제\Program1\PacMan\Sourec.c(28,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\wsw28\OneDrive\바탕 화면\C 예제\Program1\PacMan\Sourec.c(65,4): warning C4098: 'CreatMap': 'void' 함수에서 값을 반환하고 있습니다.
-  PacMan.vcxproj -> C:\Users\wsw28\OneDrive\바탕 화면\C 예제\Program1\x64\Debug\PacMan.exe
